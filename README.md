@@ -10,9 +10,9 @@
 
 ![clone](https://user-images.githubusercontent.com/50849548/130002369-2513fe19-e8f9-481c-b3ef-cd84a156ada7.gif)
 
-<!-- <img align="center" height="500" width="950" src="./public/clone.gif"> -->
 </div>
 <br><br>
+
 # Sobre
 
 <h3> 
