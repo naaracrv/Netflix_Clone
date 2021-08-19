@@ -60,9 +60,9 @@ export default () => {
 	    </section>
 
         <footer>
-            Feito com <span role="img" arial-label="coração">❤️</span> por &nbsp;<a href="https://github.com/naaracrv"> Naara Veronez </a><br/>
-            Direitos de imagem para &nbsp;<a href="https://www.netflix.com/br/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse"> Netflix </a><br/>
-            Dados coletados do site &nbsp;<a href="https://www.themoviedb.org"> Themoviedb.org </a>
+            Feito com <span role="img" arial-label="coração">❤️</span> por &nbsp;<a href="https://github.com/naaracrv" target="_blank" rel="noreferrer"> Naara Veronez </a><br/>
+            Direitos de imagem para &nbsp;<a href="https://www.netflix.com/br/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse" target="_blank" rel="noreferrer"> Netflix.com </a><br/>
+            Dados coletados do site &nbsp;<a href="https://www.themoviedb.org" target="_blank" rel="noreferrer"> Themoviedb.org </a>
         </footer>
 
 

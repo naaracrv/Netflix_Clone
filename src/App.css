@@ -2,7 +2,6 @@
 
 * {
     box-sizing: border-box;
-    text-decoration: none;
 }
 
 body {
@@ -17,9 +16,17 @@ body {
 }
 
 footer {
-    color: #FFF;
     margin: 50px 0;
     text-align: center;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+    background-color: #FFF;
+    border-radius: 5px;
+    line-height: 1.5;
+    padding: 0 7px 0 2px;
 }
 
 .loading{
